@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Roboto|Gloria+Hallelujah');
 
+.fleft {
+	float: left;
+}
+
+.fright {
+	float: right;
+}
+
+.cento {
+	width: 150px;
+}
+
 body {
   font-family: Roboto, sans-serif;
   font-size: 15px;
@@ -59,12 +71,23 @@ p {
 	margin-top: 0;
 }
 
+section {
+	margin-left: 80px;
+}
+
 
 section a {
   color: #39c;
   text-decoration: none;
   font-family: Roboto, sans-serif;
   font-weight: normal;
+}
+
+
+.icon {
+	width: 32px;
+	vertical-align: middle;
+	margin-right: 5px;
 }
 
 
