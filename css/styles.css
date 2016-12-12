@@ -21,6 +21,9 @@ h1 {
   font-size: 32px;
   color: rgb(34,34,34);
   font-weight: 400;
+}
+
+h1, h2, h3, h4 {
   margin: 0px;
 }
 
@@ -29,9 +32,29 @@ section a {
   color: #39c;
   text-decoration: none;
   font-family: Roboto, sans-serif;
+  font-weight: normal;
 }
 
 .description {
   font-family: Gloria Hallelujah;
   /* font-weight: bold; */
+}
+
+.chunk {
+  margin-top: 20px;
+}
+
+.chunkLeft {
+  display: inline-block;
+  text-align: right;
+  vertical-align: top;
+  padding-right: 10px;
+  width: 110px;
+}
+
+.chunkRight {
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 10px;
+  border-left: 1px solid #666;
 }
