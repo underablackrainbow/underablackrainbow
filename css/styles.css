@@ -29,6 +29,7 @@ body {
 	width: 50%;
 	margin: auto auto;
 	min-width: 700px;
+	padding: 30px
 }
 
 header {
@@ -38,13 +39,13 @@ header {
 
 #userspot {
 	float: left;
-	height: 120px;
+	height: 150px;
 }
 
 #userspot img {
     width:  100px;
     height: 100px;
-   /* margin-top: 10px; */
+    margin-top: 15px; 
     margin-right: 10px;
 	border-radius: 50%;
 	border: 3px solid #39c;
@@ -53,13 +54,13 @@ header {
 
 
 #usertext {
-	height: 120px;
+	height: 150px;
 }
 
 
 h1 {
   font-family: 'Oswald', sans-serif;
-  font-size: 32px;
+  font-size: 46px;
   color: rgb(34,34,34);
   font-weight: 400;
 }
