@@ -25,8 +25,15 @@ body {
 }
 
 
+.content {
+	width: 50%;
+	margin: auto auto;
+	min-width: 700px;
+}
+
 header {
-	height: 120px;
+	/*height: 120px; */
+	margin-bottom: 50px;
 }
 
 #userspot {
@@ -95,10 +102,17 @@ footer {
 	margin-top: 40px;
 }
 
+
+.excerpt {
+	font-size: 20px;
+}
+
 .description {
   font-family: 'Gloria Hallelujah';
+  font-size: 15px;
   /* font-weight: bold; */
 }
+
 
 .chunk {
   margin-top: 20px;
