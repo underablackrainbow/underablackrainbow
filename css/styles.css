@@ -8,10 +8,10 @@
 
 
 h1 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald script=all rev=3', sans-serif;
   font-size: 32px;
   color: rgb(34,34,34);
-  font-weight: bold;
+  font-weight: 400;
 }
 
 
