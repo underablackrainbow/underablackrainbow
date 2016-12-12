@@ -3,8 +3,11 @@
 body {
   font-family: Roboto, sans-serif;
   font-size: 15px;
-  color: rgb(110,110,110);
+  color: rgb(100,100,100);
+  background: url(../images/background.png);
+  background-repeat: no-repeat;
 }
+
 
 
 header {
