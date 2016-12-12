@@ -6,13 +6,26 @@
   color: rgb(110,110,110);
 }
 
+
+header {
+	height: 120px;
+}
+
 #userspot {
+	float: left;
+	height: 120px;
+}
+
+#userspot img {
     width: 60px;
     height: 60px;
-    /* vertical-align: middle; */
-    float: left;
     margin-top: 10px;
     margin-right: 10px;
+}
+
+
+#usertext {
+	height: 120px;
 }
 
 
@@ -28,6 +41,12 @@ h1, h2, h3, h4 {
 }
 
 
+p {
+	padding-top: 0;
+	margin-top: 0;
+}
+
+
 section a {
   color: #39c;
   text-decoration: none;
@@ -36,12 +55,13 @@ section a {
 }
 
 .description {
-  font-family: Gloria Hallelujah;
+  font-family: 'Gloria Hallelujah';
   /* font-weight: bold; */
 }
 
 .chunk {
   margin-top: 20px;
+  display: block;
 }
 
 .chunkLeft {
