@@ -2,10 +2,17 @@
 
 * {
   font-family: Noto Sans;
-  font-size: 13px;
+  font-size: 18px;
+  color: rgb(110,110,110);
 }
 
 
 h1 {
   font-size: 32px;
+  color: rgb(34,34,34);
+}
+
+
+section a {
+  color: #39c;
 }
