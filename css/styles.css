@@ -21,3 +21,7 @@ section a {
   text-decoration: none;
   font-family: Roboto, sans-serif;
 }
+
+.description {
+  font-weight: bold;
+}
