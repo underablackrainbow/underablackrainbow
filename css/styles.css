@@ -1,1 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
 
+* {
+  font-family: Noto Sans;
+  font-size: 13px;
+}
+
+
+h1 {
+  font-size: 32px;
+}
