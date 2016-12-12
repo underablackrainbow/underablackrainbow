@@ -116,7 +116,7 @@ footer {
 
 
 .chunk {
-  margin-top: 20px;
+ /* margin-top: 20px;*/
   display: block;
 }
 
@@ -133,4 +133,13 @@ footer {
   vertical-align: top;
   padding-left: 10px;
   border-left: 1px solid #666;
+}
+
+
+.dot {
+	margin-left: 116px;
+	margin-top: 2px;
+	margin-bottom: 0px;
+	width: 16px;
+	height: 16px;
 }
