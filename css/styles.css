@@ -10,9 +10,11 @@
 h1 {
   font-size: 32px;
   color: rgb(34,34,34);
+  font-weight: 700;
 }
 
 
 section a {
   color: #39c;
+  text-decoration: none;
 }
