@@ -126,6 +126,8 @@ footer {
   vertical-align: top;
   padding-right: 10px;
   width: 110px;
+  padding-top:    10px;
+  padding-bottom: 10px;
 }
 
 .chunkRight {
@@ -133,6 +135,8 @@ footer {
   vertical-align: top;
   padding-left: 10px;
   border-left: 1px solid #666;
+  padding-top:    10px;
+  padding-bottom: 10px;
 }
 
 
