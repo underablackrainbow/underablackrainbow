@@ -28,7 +28,7 @@ body {
 .content {
 	width: 50%;
 	margin: auto auto;
-	min-width: 700px;
+	min-width: 800px;
 	padding: 30px
 }
 
@@ -40,6 +40,7 @@ header {
 #userspot {
 	float: left;
 	height: 150px;
+	width: 10%;
 }
 
 #userspot img {
@@ -54,7 +55,13 @@ header {
 
 
 #usertext {
+	width: 85%;
 	height: 150px;
+	float: right;
+}
+
+#usertext:before {
+	clear:both;
 }
 
 
@@ -112,6 +119,8 @@ footer {
   font-family: 'Gloria Hallelujah';
   font-size: 15px;
   /* font-weight: bold; */
+  padding-bottom: 20px;
+  border-bottom: 3px solid #39c;
 }
 
 
