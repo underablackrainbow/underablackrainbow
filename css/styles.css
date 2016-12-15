@@ -40,14 +40,13 @@ header {
 #userspot {
 	float: left;
 	height: 150px;
-	width: 10%;
+	width: 130px;
 }
 
 #userspot img {
     width:  100px;
     height: 100px;
-    margin-top: 15px; 
-    margin-right: 10px;
+    margin-top: 25px; 
 	border-radius: 50%;
 	border: 3px solid #39c;
 	padding: 3px;
@@ -55,7 +54,7 @@ header {
 
 
 #usertext {
-	width: 85%;
+	width: 670px;
 	height: 150px;
 	float: right;
 }
@@ -117,7 +116,7 @@ footer {
 
 .description {
   font-family: 'Gloria Hallelujah';
-  font-size: 15px;
+  font-size: 14px;
   /* font-weight: bold; */
   padding-bottom: 20px;
   border-bottom: 3px solid #39c;
